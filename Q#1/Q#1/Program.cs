@@ -46,7 +46,7 @@ namespace Classes_P1_Q1
             book1.ApplyDiscount(10);
             book1.DisplayBookInfo();
 
-            Console.WriteLine("\t---***----");
+            Console.WriteLine("\t---***---");
 
             Book book2 = new Book();
             book2.Title = "Mushaf";
